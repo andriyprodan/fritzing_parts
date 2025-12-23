@@ -1765,7 +1765,7 @@
        rx="1.132"
        ry="1.1323642" /><text
        xml:space="preserve"
-       style="font-size:1.76177px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.146814"
+       style="font-size:7px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.146814"
        x="-38.313728"
        y="22.705853"
        id="text1"
@@ -1776,7 +1776,7 @@
          x="-38.313728"
          y="22.705853">VCC</tspan></text><text
        xml:space="preserve"
-       style="font-size:4.38072px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.365061"
+       style="font-size:15px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.365061"
        x="-36.639614"
        y="97.472885"
        id="text1-4"
@@ -1787,7 +1787,7 @@
          x="-36.639614"
          y="97.472885">A+</tspan></text><text
        xml:space="preserve"
-       style="font-size:4.38072px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.365061"
+       style="font-size:15px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.365061"
        x="-46.374825"
        y="97.472885"
        id="text1-4-1"
@@ -1803,7 +1803,7 @@
          y="102.94878"
          id="tspan3" /></text><text
        xml:space="preserve"
-       style="font-size:1.76177px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.146814"
+       style="font-size:7px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.146814"
        x="-43.303394"
        y="22.705421"
        id="text1-1"
@@ -1819,7 +1819,7 @@
          y="24.907635"
          id="tspan2" /></text><text
        xml:space="preserve"
-       style="font-size:1.76177px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.146814"
+       style="font-size:7px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.146814"
        x="-48.454784"
        y="22.705421"
        id="text1-5"
@@ -1830,7 +1830,7 @@
          x="-48.454784"
          y="22.705421">RX0</tspan></text><text
        xml:space="preserve"
-       style="font-size:1.76177px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.146814"
+       style="font-size:7px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.146814"
        x="-53.936508"
        y="22.704992"
        id="text1-3"
@@ -1839,14 +1839,4 @@
          id="tspan1-41"
          style="fill:#ffffff;stroke-width:0.146814"
          x="-53.936508"
-         y="22.704992">GND</tspan></text><g
-       id="breadboard"
-       transform="matrix(0.04960937,0,0,0.04960937,25.43967,23.999601)"><text
-         x="-63.275925"
-         y="167.26424"
-         font-family="Arial"
-         font-size="78.7039px"
-         fill="#ffffff"
-         font-weight="700"
-         id="text3"
-         style="stroke-width:2.31482">V</text></g></g></svg>
+         y="22.704992">GND</tspan></text></g></svg>
