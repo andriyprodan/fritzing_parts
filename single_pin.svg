@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3.6548102mm"
+   height="3.6548102mm"
+   viewBox="0 0 3.6548102 3.6548102"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="single_pin.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="10.985947"
+     inkscape:cx="9.9672787"
+     inkscape:cy="-0.95576645"
+     inkscape:window-width="1440"
+     inkscape:window-height="740"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-92.902612,-70.162513)">
+    <rect
+       style="fill:#9a916c;fill-opacity:1;stroke-width:0.310104"
+       id="connector1pin"
+       width="3.6548102"
+       height="3.6548102"
+       x="92.902611"
+       y="70.162514"
+       rx="12.305623"
+       ry="11.163135" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.636537"
+       id="connector1terminal"
+       cx="94.745598"
+       cy="72.008209"
+       r="1.4412899" />
+  </g>
+</svg>
